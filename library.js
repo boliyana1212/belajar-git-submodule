@@ -1,3 +1,6 @@
 function sayHello(name) {
-  return `helo + ${sayHello}`;
+  return `Hello + ${sayHello}`;
+}
+function sayGuest() {
+  return "Hello";
 }
